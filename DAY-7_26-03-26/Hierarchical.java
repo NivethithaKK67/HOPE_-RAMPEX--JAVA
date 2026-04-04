@@ -10,7 +10,7 @@ class Son extends Father{
 }
 class Daughter extends Father{
     void business(){
-        System.out.println("Since I have my own business I don't have proper time to manage yours. handover business to brother as job is temporary ");
+        System.out.println("Since I have my own business I don't have proper time to manage yours. You handover business to brother as job is temporary ");
     }
 }
 public class Hierarchical {
