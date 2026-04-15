@@ -15,3 +15,4 @@ public class LinkedListImplementation {
         System.out.println("A won in 0.001ms");
     }
 }
+//these are basics or fundamentals

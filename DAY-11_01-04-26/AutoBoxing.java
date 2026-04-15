@@ -7,8 +7,8 @@ public class AutoBoxing {
     //     Integer obj = 1000;
     //     System.out.println(a==obj);//==>false because of cache memory,==>it checks both the value and reference
     //     System.out.println(a.equals(obj));//==>true because of value comparison,==>it checks only the value
-    Float b = 126.5F;
-    Float c = 120.5F;
+    Float b = 127.5F;
+    Float c = 127.5F;
     System.out.println(b==c);//==>false because of cache memory,==>it checks both the value and reference
 }
 }//what is reference?=>reference is the address of the object in memory,==>it is used to access the object in memory,==>it is used to compare the objects in memory,==>it is used to check if two objects are same or not,==>it is used to check if two objects are equal or not,==>it is used to check if two objects are same or not,==>it is used to check if two objects are equal or not,==>it is used to check if two objects are same or not,==>it is used to check if two objects are equal or not,==>it is used to check if two objects are same or not,==>it is used to check if two objects are equal or not,==>it is used

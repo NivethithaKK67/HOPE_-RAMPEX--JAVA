@@ -1,5 +1,5 @@
 class BankAccount{
-     private double balance;
+    private double balance;
     void deposit(int amount){
         balance+=amount;
         getBalance();

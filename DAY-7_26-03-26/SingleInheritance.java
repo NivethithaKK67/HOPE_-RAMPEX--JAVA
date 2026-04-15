@@ -8,7 +8,7 @@ class Dog{
         System.out.println("Dog Barks");
     }
 }
-public class Inheritance {
+public class SingleInheritance {
     public static void main(String[] args) {
         Dog sound = new Dog();
         sound.bark();
