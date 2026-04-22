@@ -1,5 +1,4 @@
 import java.io.*;
-
 public class Deserialization {
     public static void main(String[] args )throws Exception {
         ObjectInputStream ois = new ObjectInputStream(new FileInputStream("confidential.dat"));
